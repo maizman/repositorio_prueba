@@ -15,6 +15,7 @@ namespace prubaGit
         public Form1()
         {
             InitializeComponent();
+            //hola
         }
     }
 }
